@@ -13,7 +13,6 @@ from rest_framework.generics import ListAPIView, RetrieveUpdateDestroyAPIView, C
 from rest_framework.response import Response
 from rest_framework import status
 
-# Create your views here.
 
 
 # Create your views here.
